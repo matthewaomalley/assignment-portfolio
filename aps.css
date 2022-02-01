@@ -1,0 +1,45 @@
+header {
+    background-color:rgb(223, 222, 222);
+    border-top: 25px solid rgb(223, 222, 222);
+}
+
+body {
+    margin: 0px;
+}
+
+img {
+    width: 165px;
+    height: 165px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3 {
+    text-align: center;
+    font-family: Georgia;
+    padding: 0px;
+    margin: 0px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    
+    border-collapse: separate;
+    border-spacing: 140px 0;
+}
+
+td {
+    font-family: Georgia;
+    padding: 40px 0;
+    text-align: center;
+}
