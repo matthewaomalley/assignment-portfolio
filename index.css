@@ -13,7 +13,8 @@ a {
 }
 
 a:hover {
-    color: grey;
+    color: rgb(122, 122, 122);
+    opacity: .7;
 }
 
 .contactimg {
@@ -60,4 +61,13 @@ h3 {
     font-family: Georgia;
     padding: 40px 0;
     text-align: center;
+}
+
+.bottom {
+    font-family: Georgia;
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
